@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+
+The daily data for the crossword is fetched from XWord Info, operated by Jim Horne. (A big thank you for that!)
+
+## Online Demo Link :
+https://komalsarvani.github.io/Casual-Crosswords/
+
 
 ## Available Scripts
 
