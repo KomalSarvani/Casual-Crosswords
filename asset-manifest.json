@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Casual-Crosswords/static/css/main.6f450bb1.chunk.css",
+    "main.js": "/Casual-Crosswords/static/js/main.0ca6ce85.chunk.js",
+    "main.js.map": "/Casual-Crosswords/static/js/main.0ca6ce85.chunk.js.map",
+    "runtime~main.js": "/Casual-Crosswords/static/js/runtime~main.8c7e92df.js",
+    "runtime~main.js.map": "/Casual-Crosswords/static/js/runtime~main.8c7e92df.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/Casual-Crosswords/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.2918d66c.chunk.js": "/Casual-Crosswords/static/js/2.2918d66c.chunk.js",
+    "static/js/2.2918d66c.chunk.js.map": "/Casual-Crosswords/static/js/2.2918d66c.chunk.js.map",
+    "index.html": "/Casual-Crosswords/index.html",
+    "precache-manifest.532bc2f222aab8c035fecbfbe0ccf7b9.js": "/Casual-Crosswords/precache-manifest.532bc2f222aab8c035fecbfbe0ccf7b9.js",
+    "service-worker.js": "/Casual-Crosswords/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/Casual-Crosswords/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.6f450bb1.chunk.css.map": "/Casual-Crosswords/static/css/main.6f450bb1.chunk.css.map",
+    "static/media/App.css": "/Casual-Crosswords/static/media/crossword.acab4a81.jpg",
+    "static/media/dies.png": "/Casual-Crosswords/static/media/dies.48991312.png",
+    "static/media/noctis.png": "/Casual-Crosswords/static/media/noctis.1d2a0760.png",
+    "static/media/try_again.jpg": "/Casual-Crosswords/static/media/try_again.dacf865f.jpg",
+    "static/media/vesperum.png": "/Casual-Crosswords/static/media/vesperum.e0419573.png",
+    "static/media/woohoo.jpg": "/Casual-Crosswords/static/media/woohoo.a5e8c353.jpg"
+  }
+}
