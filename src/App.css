@@ -1,33 +1,105 @@
-.App {
+@import url('https://fonts.googleapis.com/css?family=Macondo+Swash+Caps');
+
+.welcome { background-color: black;
+  color: #E3D4BB;
+  padding: 2%;
   text-align: center;
+  height: 100vh;}
+
+.eachcell{
+  height: 30px;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.table td.fit,
+.table th.fit {
+  white-space: nowrap;
+  width: 1%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.acrosslist {
+  height: 100%;
+  overflow: auto;
+  padding: 4%;
+  border-radius: 25px;
 }
 
-.App-link {
-  color: #61dafb;
+.crossword {
+  padding: 3%;
 }
 
-@keyframes App-logo-spin {
+.wordNum {
+  font-size: 4%;
+  margin: 0;
+  padding: 0;
+}
+
+.crosswordImg {
+  background: url(images/crossword.jpg) no-repeat;
+  background-size: 101%;
+  filter: grayscale(100%);
+  border-color: black;
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+.app-title {
+  padding: 2%;
+  font-family: "Macondo Swash Caps" , cursive;
+  color: silver;
+}
+
+.row-bg {
+  height: 50vh;
+}
+
+.theme {
+  margin: 5%;
+}
+
+.hehehe {
+  padding-top: 20%;
+  margin: 2%;
+  animation-duration: 1s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
   from {
-    transform: rotate(0deg);
+    margin-bottom: 100%;
+    width: 300%;
   }
+
   to {
-    transform: rotate(360deg);
+    margin-top: 5%;
+    width: 100%;
   }
+}
+
+.clues {
+  height: 725px;
+}
+
+.crosscheck {
+  text-align: center;
+  margin-bottom: 3%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.blackCell {
+  background-color: black;
+}
+
+.header {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.carousel {
+  margin: 4%;
+}
+
+.caption {
+  color: black;
 }
